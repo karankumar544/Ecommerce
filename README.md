@@ -21,11 +21,9 @@ This E-commerce was developed by new Android Libary Jetpack Compose. This porjec
 10. Profile 
 11. Bottom Navigation Bar
 
-## 📸Preview
 
-### Video Preview
 
-https://user-images.githubusercontent.com/75040026/215316872-972a5fc6-de28-4b08-8a93-673016e06c46.mp4
+
 
 ### Screenshot Preview
 |![Preview](/preview/1.png)|![Preview](/preview/2.png)|![Preview](/preview/3.png)|![Preview](/preview/4.png)|
